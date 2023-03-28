@@ -20,7 +20,7 @@ npm install @nooptoday/profanity-filter
 ## Code
 
 ```javascript
-const { censor } = require('@nooptoday/profanity-filter');
+const { censor } = require('@nooptoday/profanity-filter')
 
-censor('hello fucking world'); // hello f****** world
+censor('hello fucking world') // hello f****** world
 ```
