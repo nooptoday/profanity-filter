@@ -1,6 +1,6 @@
 {
   "name": "@nooptoday/profanity-filter-win32-x64-msvc",
-  "version": "1.0.1-10",
+  "version": "1.0.1-11",
   "os": [
     "win32"
   ],
