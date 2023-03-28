@@ -7,7 +7,7 @@
   "cpu": [
     "arm64"
   ],
-  "main": "@nooptoday/profanity-filter.win32-arm64-msvc.node",
+  "main": "profanity-filter.win32-arm64-msvc.node",
   "files": [
     "profanity-filter.win32-arm64-msvc.node"
   ],

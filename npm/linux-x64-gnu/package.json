@@ -7,7 +7,7 @@
   "cpu": [
     "x64"
   ],
-  "main": "@nooptoday/profanity-filter.linux-x64-gnu.node",
+  "main": "profanity-filter.linux-x64-gnu.node",
   "files": [
     "profanity-filter.linux-x64-gnu.node"
   ],

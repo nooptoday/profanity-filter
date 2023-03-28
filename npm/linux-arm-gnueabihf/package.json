@@ -7,7 +7,7 @@
   "cpu": [
     "arm"
   ],
-  "main": "@nooptoday/profanity-filter.linux-arm-gnueabihf.node",
+  "main": "profanity-filter.linux-arm-gnueabihf.node",
   "files": [
     "profanity-filter.linux-arm-gnueabihf.node"
   ],

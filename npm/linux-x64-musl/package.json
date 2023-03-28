@@ -7,7 +7,7 @@
   "cpu": [
     "x64"
   ],
-  "main": "@nooptoday/profanity-filter.linux-x64-musl.node",
+  "main": "profanity-filter.linux-x64-musl.node",
   "files": [
     "profanity-filter.linux-x64-musl.node"
   ],

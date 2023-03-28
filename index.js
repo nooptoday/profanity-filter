@@ -29,7 +29,7 @@ switch (platform) {
         localFileExisted = existsSync(join(__dirname, '@nooptoday/profanity-filter.android-arm64.node'))
         try {
           if (localFileExisted) {
-            nativeBinding = require('./@nooptoday/profanity-filter.android-arm64.node')
+            nativeBinding = require('./profanity-filter.android-arm64.node')
           } else {
             nativeBinding = require('@nooptoday/profanity-filter-android-arm64')
           }
@@ -41,7 +41,7 @@ switch (platform) {
         localFileExisted = existsSync(join(__dirname, '@nooptoday/profanity-filter.android-arm-eabi.node'))
         try {
           if (localFileExisted) {
-            nativeBinding = require('./@nooptoday/profanity-filter.android-arm-eabi.node')
+            nativeBinding = require('./profanity-filter.android-arm-eabi.node')
           } else {
             nativeBinding = require('@nooptoday/profanity-filter-android-arm-eabi')
           }
@@ -59,7 +59,7 @@ switch (platform) {
         localFileExisted = existsSync(join(__dirname, '@nooptoday/profanity-filter.win32-x64-msvc.node'))
         try {
           if (localFileExisted) {
-            nativeBinding = require('./@nooptoday/profanity-filter.win32-x64-msvc.node')
+            nativeBinding = require('./profanity-filter.win32-x64-msvc.node')
           } else {
             nativeBinding = require('@nooptoday/profanity-filter-win32-x64-msvc')
           }
@@ -71,7 +71,7 @@ switch (platform) {
         localFileExisted = existsSync(join(__dirname, '@nooptoday/profanity-filter.win32-ia32-msvc.node'))
         try {
           if (localFileExisted) {
-            nativeBinding = require('./@nooptoday/profanity-filter.win32-ia32-msvc.node')
+            nativeBinding = require('./profanity-filter.win32-ia32-msvc.node')
           } else {
             nativeBinding = require('@nooptoday/profanity-filter-win32-ia32-msvc')
           }
@@ -83,7 +83,7 @@ switch (platform) {
         localFileExisted = existsSync(join(__dirname, '@nooptoday/profanity-filter.win32-arm64-msvc.node'))
         try {
           if (localFileExisted) {
-            nativeBinding = require('./@nooptoday/profanity-filter.win32-arm64-msvc.node')
+            nativeBinding = require('./profanity-filter.win32-arm64-msvc.node')
           } else {
             nativeBinding = require('@nooptoday/profanity-filter-win32-arm64-msvc')
           }
@@ -99,7 +99,7 @@ switch (platform) {
     localFileExisted = existsSync(join(__dirname, '@nooptoday/profanity-filter.darwin-universal.node'))
     try {
       if (localFileExisted) {
-        nativeBinding = require('./@nooptoday/profanity-filter.darwin-universal.node')
+        nativeBinding = require('./profanity-filter.darwin-universal.node')
       } else {
         nativeBinding = require('@nooptoday/profanity-filter-darwin-universal')
       }
@@ -110,7 +110,7 @@ switch (platform) {
         localFileExisted = existsSync(join(__dirname, '@nooptoday/profanity-filter.darwin-x64.node'))
         try {
           if (localFileExisted) {
-            nativeBinding = require('./@nooptoday/profanity-filter.darwin-x64.node')
+            nativeBinding = require('./profanity-filter.darwin-x64.node')
           } else {
             nativeBinding = require('@nooptoday/profanity-filter-darwin-x64')
           }
@@ -122,7 +122,7 @@ switch (platform) {
         localFileExisted = existsSync(join(__dirname, '@nooptoday/profanity-filter.darwin-arm64.node'))
         try {
           if (localFileExisted) {
-            nativeBinding = require('./@nooptoday/profanity-filter.darwin-arm64.node')
+            nativeBinding = require('./profanity-filter.darwin-arm64.node')
           } else {
             nativeBinding = require('@nooptoday/profanity-filter-darwin-arm64')
           }
@@ -141,7 +141,7 @@ switch (platform) {
     localFileExisted = existsSync(join(__dirname, '@nooptoday/profanity-filter.freebsd-x64.node'))
     try {
       if (localFileExisted) {
-        nativeBinding = require('./@nooptoday/profanity-filter.freebsd-x64.node')
+        nativeBinding = require('./profanity-filter.freebsd-x64.node')
       } else {
         nativeBinding = require('@nooptoday/profanity-filter-freebsd-x64')
       }
@@ -156,7 +156,7 @@ switch (platform) {
           localFileExisted = existsSync(join(__dirname, '@nooptoday/profanity-filter.linux-x64-musl.node'))
           try {
             if (localFileExisted) {
-              nativeBinding = require('./@nooptoday/profanity-filter.linux-x64-musl.node')
+              nativeBinding = require('./profanity-filter.linux-x64-musl.node')
             } else {
               nativeBinding = require('@nooptoday/profanity-filter-linux-x64-musl')
             }
@@ -167,7 +167,7 @@ switch (platform) {
           localFileExisted = existsSync(join(__dirname, '@nooptoday/profanity-filter.linux-x64-gnu.node'))
           try {
             if (localFileExisted) {
-              nativeBinding = require('./@nooptoday/profanity-filter.linux-x64-gnu.node')
+              nativeBinding = require('./profanity-filter.linux-x64-gnu.node')
             } else {
               nativeBinding = require('@nooptoday/profanity-filter-linux-x64-gnu')
             }
@@ -181,7 +181,7 @@ switch (platform) {
           localFileExisted = existsSync(join(__dirname, '@nooptoday/profanity-filter.linux-arm64-musl.node'))
           try {
             if (localFileExisted) {
-              nativeBinding = require('./@nooptoday/profanity-filter.linux-arm64-musl.node')
+              nativeBinding = require('./profanity-filter.linux-arm64-musl.node')
             } else {
               nativeBinding = require('@nooptoday/profanity-filter-linux-arm64-musl')
             }
@@ -192,7 +192,7 @@ switch (platform) {
           localFileExisted = existsSync(join(__dirname, '@nooptoday/profanity-filter.linux-arm64-gnu.node'))
           try {
             if (localFileExisted) {
-              nativeBinding = require('./@nooptoday/profanity-filter.linux-arm64-gnu.node')
+              nativeBinding = require('./profanity-filter.linux-arm64-gnu.node')
             } else {
               nativeBinding = require('@nooptoday/profanity-filter-linux-arm64-gnu')
             }
@@ -205,7 +205,7 @@ switch (platform) {
         localFileExisted = existsSync(join(__dirname, '@nooptoday/profanity-filter.linux-arm-gnueabihf.node'))
         try {
           if (localFileExisted) {
-            nativeBinding = require('./@nooptoday/profanity-filter.linux-arm-gnueabihf.node')
+            nativeBinding = require('./profanity-filter.linux-arm-gnueabihf.node')
           } else {
             nativeBinding = require('@nooptoday/profanity-filter-linux-arm-gnueabihf')
           }

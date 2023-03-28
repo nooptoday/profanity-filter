@@ -7,7 +7,7 @@
   "cpu": [
     "x64"
   ],
-  "main": "@nooptoday/profanity-filter.darwin-x64.node",
+  "main": "profanity-filter.darwin-x64.node",
   "files": [
     "profanity-filter.darwin-x64.node"
   ],

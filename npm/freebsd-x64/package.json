@@ -7,7 +7,7 @@
   "cpu": [
     "x64"
   ],
-  "main": "@nooptoday/profanity-filter.freebsd-x64.node",
+  "main": "profanity-filter.freebsd-x64.node",
   "files": [
     "profanity-filter.freebsd-x64.node"
   ],

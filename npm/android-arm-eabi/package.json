@@ -7,7 +7,7 @@
   "cpu": [
     "arm"
   ],
-  "main": "@nooptoday/profanity-filter.android-arm-eabi.node",
+  "main": "profanity-filter.android-arm-eabi.node",
   "files": [
     "profanity-filter.android-arm-eabi.node"
   ],

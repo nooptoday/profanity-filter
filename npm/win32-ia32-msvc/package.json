@@ -7,7 +7,7 @@
   "cpu": [
     "ia32"
   ],
-  "main": "@nooptoday/profanity-filter.win32-ia32-msvc.node",
+  "main": "profanity-filter.win32-ia32-msvc.node",
   "files": [
     "profanity-filter.win32-ia32-msvc.node"
   ],
