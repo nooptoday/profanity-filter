@@ -23,7 +23,7 @@
     "index.js"
   ],
   "napi": {
-    "name": "profanity-filter",
+    "name": "@nooptoday/profanity-filter",
     "triples": {
       "defaults": true,
       "additional": [
