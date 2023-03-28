@@ -1,3 +1,3 @@
-# `profanity-filter-android-arm-eabi`
+# `@nooptoday/profanity-filter-android-arm-eabi`
 
-This is the **armv7-linux-androideabi** binary for `profanity-filter`
+This is the **armv7-linux-androideabi** binary for `@nooptoday/profanity-filter`

@@ -1,3 +1,3 @@
-# `profanity-filter-darwin-x64`
+# `@nooptoday/profanity-filter-darwin-x64`
 
-This is the **x86_64-apple-darwin** binary for `profanity-filter`
+This is the **x86_64-apple-darwin** binary for `@nooptoday/profanity-filter`

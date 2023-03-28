@@ -1,5 +1,5 @@
 {
-  "name": "profanity-filter-android-arm-eabi",
+  "name": "@nooptoday/profanity-filter-android-arm-eabi",
   "version": "1.0.1-3",
   "os": [
     "android"
@@ -7,18 +7,23 @@
   "cpu": [
     "arm"
   ],
-  "main": "profanity-filter.android-arm-eabi.node",
+  "main": "@nooptoday/profanity-filter.android-arm-eabi.node",
   "files": [
-    "profanity-filter.android-arm-eabi.node"
+    "@nooptoday/profanity-filter.android-arm-eabi.node"
   ],
-  "description": "Node.js bindings for rustrict by package by finnbear",
+  "description": "Node.js bindings for rustrict by finnbear",
   "keywords": [
     "napi-rs",
     "NAPI",
     "N-API",
     "Rust",
     "node-addon",
-    "node-addon-api"
+    "node-addon-api",
+    "profanity",
+    "bad",
+    "word",
+    "filter",
+    "swear"
   ],
   "license": "MIT",
   "engines": {

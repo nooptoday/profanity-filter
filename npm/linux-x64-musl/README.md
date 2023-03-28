@@ -1,3 +1,3 @@
-# `profanity-filter-linux-x64-musl`
+# `@nooptoday/profanity-filter-linux-x64-musl`
 
-This is the **x86_64-unknown-linux-musl** binary for `profanity-filter`
+This is the **x86_64-unknown-linux-musl** binary for `@nooptoday/profanity-filter`

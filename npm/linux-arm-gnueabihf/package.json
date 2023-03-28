@@ -1,5 +1,5 @@
 {
-  "name": "profanity-filter-linux-arm-gnueabihf",
+  "name": "@nooptoday/profanity-filter-linux-arm-gnueabihf",
   "version": "1.0.1-3",
   "os": [
     "linux"
@@ -7,18 +7,23 @@
   "cpu": [
     "arm"
   ],
-  "main": "profanity-filter.linux-arm-gnueabihf.node",
+  "main": "@nooptoday/profanity-filter.linux-arm-gnueabihf.node",
   "files": [
-    "profanity-filter.linux-arm-gnueabihf.node"
+    "@nooptoday/profanity-filter.linux-arm-gnueabihf.node"
   ],
-  "description": "Node.js bindings for rustrict by package by finnbear",
+  "description": "Node.js bindings for rustrict by finnbear",
   "keywords": [
     "napi-rs",
     "NAPI",
     "N-API",
     "Rust",
     "node-addon",
-    "node-addon-api"
+    "node-addon-api",
+    "profanity",
+    "bad",
+    "word",
+    "filter",
+    "swear"
   ],
   "license": "MIT",
   "engines": {

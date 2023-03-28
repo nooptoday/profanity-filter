@@ -1,3 +1,3 @@
-# `profanity-filter-linux-arm-gnueabihf`
+# `@nooptoday/profanity-filter-linux-arm-gnueabihf`
 
-This is the **armv7-unknown-linux-gnueabihf** binary for `profanity-filter`
+This is the **armv7-unknown-linux-gnueabihf** binary for `@nooptoday/profanity-filter`

@@ -1,3 +1,3 @@
-# `profanity-filter-freebsd-x64`
+# `@nooptoday/profanity-filter-freebsd-x64`
 
-This is the **x86_64-unknown-freebsd** binary for `profanity-filter`
+This is the **x86_64-unknown-freebsd** binary for `@nooptoday/profanity-filter`
