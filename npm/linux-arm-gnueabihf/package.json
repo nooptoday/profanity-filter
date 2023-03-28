@@ -1,6 +1,6 @@
 {
   "name": "@nooptoday/profanity-filter-linux-arm-gnueabihf",
-  "version": "1.0.1-12",
+  "version": "1.0.1-13",
   "os": [
     "linux"
   ],
