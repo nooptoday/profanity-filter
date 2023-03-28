@@ -9,7 +9,7 @@
   ],
   "main": "@nooptoday/profanity-filter.android-arm-eabi.node",
   "files": [
-    "@nooptoday/profanity-filter.android-arm-eabi.node"
+    "profanity-filter.android-arm-eabi.node"
   ],
   "description": "Node.js bindings for rustrict by finnbear",
   "keywords": [

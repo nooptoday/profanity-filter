@@ -9,7 +9,7 @@
   ],
   "main": "@nooptoday/profanity-filter.win32-x64-msvc.node",
   "files": [
-    "@nooptoday/profanity-filter.win32-x64-msvc.node"
+    "profanity-filter.win32-x64-msvc.node"
   ],
   "description": "Node.js bindings for rustrict by finnbear",
   "keywords": [

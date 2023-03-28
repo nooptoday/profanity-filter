@@ -9,7 +9,7 @@
   ],
   "main": "@nooptoday/profanity-filter.darwin-x64.node",
   "files": [
-    "@nooptoday/profanity-filter.darwin-x64.node"
+    "profanity-filter.darwin-x64.node"
   ],
   "description": "Node.js bindings for rustrict by finnbear",
   "keywords": [
