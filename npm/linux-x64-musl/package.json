@@ -1,6 +1,6 @@
 {
   "name": "profanity-filter-linux-x64-musl",
-  "version": "1.0.1-0",
+  "version": "1.0.1-1",
   "os": [
     "linux"
   ],

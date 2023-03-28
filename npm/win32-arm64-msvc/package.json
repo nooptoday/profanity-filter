@@ -1,6 +1,6 @@
 {
   "name": "profanity-filter-win32-arm64-msvc",
-  "version": "1.0.1-0",
+  "version": "1.0.1-1",
   "os": [
     "win32"
   ],
