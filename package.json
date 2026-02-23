@@ -1,6 +1,6 @@
 {
   "name": "@nooptoday/profanity-filter",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "description": "Node.js bindings for rustrict by finnbear",
   "main": "index.js",
   "repository": "git@github.com:nooptoday/profanity-filter.git",
@@ -108,19 +108,5 @@
     "arrowParens": "always"
   },
   "packageManager": "yarn@4.12.0",
-  "optionalDependencies": {
-    "@nooptoday/profanity-filter-win32-x64-msvc": "1.0.2",
-    "@nooptoday/profanity-filter-darwin-x64": "1.0.2",
-    "@nooptoday/profanity-filter-linux-x64-gnu": "1.0.2",
-    "@nooptoday/profanity-filter-linux-x64-musl": "1.0.2",
-    "@nooptoday/profanity-filter-linux-arm64-gnu": "1.0.2",
-    "@nooptoday/profanity-filter-win32-ia32-msvc": "1.0.2",
-    "@nooptoday/profanity-filter-linux-arm-gnueabihf": "1.0.2",
-    "@nooptoday/profanity-filter-darwin-arm64": "1.0.2",
-    "@nooptoday/profanity-filter-android-arm64": "1.0.2",
-    "@nooptoday/profanity-filter-freebsd-x64": "1.0.2",
-    "@nooptoday/profanity-filter-linux-arm64-musl": "1.0.2",
-    "@nooptoday/profanity-filter-win32-arm64-msvc": "1.0.2",
-    "@nooptoday/profanity-filter-android-arm-eabi": "1.0.2"
-  }
+  "optionalDependencies": {}
 }
