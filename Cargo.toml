@@ -10,9 +10,9 @@ version = "0.1.0"
 crate-type = ["cdylib"]
 
 [dependencies]
-napi        = "2"
-napi-derive = "2"
-rustrict    = "0.7.4"
+napi        = "3"
+napi-derive = "3"
+rustrict    = "0.7.38"
 
 [build-dependencies]
 napi-build = "2"
